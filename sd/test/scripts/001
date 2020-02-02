@@ -1,0 +1,3 @@
+Run Docker on Ubuntu on Windows Subsystem for Linux - Stack Overflow
+6 answers
+Apr 25, 2018 - Is the docker daemon running? , it means that you did not enabled TCP access in your ... ² actually Windows does not support Docker at all.
